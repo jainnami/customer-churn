@@ -96,3 +96,20 @@ These features provided actionable insights for telecom companies to improve ret
 
 ## 📁 Repository Contents
 
+- All preprocessing steps, model parameters, and evaluation code are shared in the [GitHub repo](https://github.com/jainnami/4824)
+- Results are reproducible with a fixed random seed and included model weights
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🙋 Contact
+
+For questions or contributions, please reach out via GitHub: [@jainnami](https://github.com/jainnami)
+
+
+
